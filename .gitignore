@@ -1,0 +1,4 @@
+snap/qvim_*.snap
+ubuntu*.log
+.vagrant/
+*.swp
